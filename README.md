@@ -10,22 +10,22 @@ Proyek ini disusun sebagai tugas Program Studi Teknik Informatika, Fakultas Tekn
 
 ## Tim Pengembang (Kelompok 6)
 
-| No | Nama | NPM |
-|----|------|-----|
-| 1 | Ryan Ikramullah | 202343501549 |
-| 2 | Yudi Ahmad Taqqiyudin | 202343501555 |
-| 3 | Kumalasari | 202343501459 |
+| No  | Nama                  | NPM          |
+| --- | --------------------- | ------------ |
+| 1   | Ryan Ikramullah       | 202343501549 |
+| 2   | Yudi Ahmad Taqiyyudin | 202343501555 |
+| 3   | Kumalasari            | 202343501459 |
 
 ---
 
 ## Ringkasan Proyek
 
-| Aspek | Keterangan |
-|-------|------------|
-| Nama proyek | SIGAP Lingkungan |
-| Jenis penelitian | Pengembangan perangkat lunak (rancang bangun sistem informasi) |
-| Platform | Aplikasi web responsif yang dapat dipasang sebagai PWA |
-| Pengguna | Warga (pelapor), pengurus RT/RW, dan admin sistem |
+| Aspek            | Keterangan                                                                                  |
+| ---------------- | ------------------------------------------------------------------------------------------- |
+| Nama proyek      | SIGAP Lingkungan                                                                            |
+| Jenis penelitian | Pengembangan perangkat lunak (rancang bangun sistem informasi)                              |
+| Platform         | Aplikasi web responsif yang dapat dipasang sebagai PWA                                      |
+| Pengguna         | Warga (pelapor), pengurus RT/RW, dan admin sistem                                           |
 | Keunggulan utama | Pelaporan anonim terhadap pengurus RT/RW, identitas pelapor tetap tersimpan untuk anti-spam |
 
 ## Latar Belakang
@@ -77,9 +77,9 @@ Tahap saat ini: perancangan sistem (judul, latar belakang, permasalahan, tujuan,
 
 ## Daftar Pustaka
 
-- IEEE. (1998). *IEEE Std 830-1998: IEEE Recommended Practice for Software Requirements Specifications*. New York: The Institute of Electrical and Electronics Engineers.
-- Pressman, R. S., & Maxim, B. R. (2020). *Software Engineering: A Practitioner's Approach* (9th ed.). New York: McGraw-Hill Education.
-- Sommerville, I. (2016). *Software Engineering* (10th ed.). Harlow: Pearson Education.
+- IEEE. (1998). _IEEE Std 830-1998: IEEE Recommended Practice for Software Requirements Specifications_. New York: The Institute of Electrical and Electronics Engineers.
+- Pressman, R. S., & Maxim, B. R. (2020). _Software Engineering: A Practitioner's Approach_ (9th ed.). New York: McGraw-Hill Education.
+- Sommerville, I. (2016). _Software Engineering_ (10th ed.). Harlow: Pearson Education.
 
 ---
 
